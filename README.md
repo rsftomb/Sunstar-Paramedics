@@ -3,6 +3,7 @@
 - 18 Chevy Tahoe Sunstar Supervisor [Released 7/17/24]
 - 22 Ford Expedition Sunstar Childrens [Released 7/17/24]
 -	23 Ford Ambulance Sunstar [Released 7/17/24]
+-	20 Freightliner Advanced Life Support Sunstar [Released 7/17/24]
 
 
 
